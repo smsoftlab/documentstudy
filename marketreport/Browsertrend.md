@@ -2,10 +2,8 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/smsoftlab/documentstudy?style=plastic)
 >
-> - 일반 브라우저 기능이 아닌 Hybrid브라우저 기능으로 C/S 시장에 대응 방향에 대한 내용을
- 설명 하고자 합니다.
-
-- CEF3(크롬기반)과 엣지기반의 내장 브라우저 2가지 종류 존재
+> - 일반 브라우저 기능이 아닌 Hybrid브라우저 기능으로 C/S 시장에 대응 방향에 대한 내용을  설명 하고자 합니다.
+> - CEF3(크롬기반)과 엣지기반의 내장 브라우저 2가지 종류 존재
 
 #
 
