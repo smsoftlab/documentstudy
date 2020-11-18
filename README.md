@@ -15,7 +15,7 @@
 
 내용  | 관련자료 링크
 ------------- | -------------
-웹브라우저 시장동향보고  | [WebView2 와 Cef 비교](https://github.com/smsoftlab/documentstudy/blob/main/marketreport/Browsertrend.md)
+웹브라우저 시장동향보고  | [WebView2 와 Cef 비교](marketreport/Browsertrend.md)
 KSMBuilder 방향성보고   | 주소연결
 내용설명  | 주소연결
 다국어 처리 변환모듈  | [Github링크](https://github.com/robnyman/TranslationTester)
