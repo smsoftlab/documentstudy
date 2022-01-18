@@ -12,4 +12,10 @@
     > 웹 페이지의 언어 변경 기능을 구현 할 수 있습니다.
   - [Hangul.js](https://github.com/e-/Hangul.js "Hangul 깃허브로 이동")
     > 자음, 모음 분리 또는 초성 검색 기능을 구현 할 수 있습니다. 
+  - [lightningchart-js](https://arction-com.hel7.wp-cloud.dev/net%E2%80%AF%EB%B0%8F-%EC%9B%B9%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-%EA%B3%A0%EC%84%B1%EB%8A%A5%EC%9D%98-%EC%B0%A8%ED%8A%B8-%EC%9E%91%EC%84%B1-%EC%BB%A8%ED%8A%B8%EB%A1%A4/ "lightningchart-js 이동")
+    > 실시간 데이터 시각화에 초점을 맞춘 최고 성능의 자바스크립트 차트 작성 라이브러리
+  - [lightningchart예제](https://www.arction.com/lightningchart-js-interactive-examples/examples/lcjs-example-0508-dashboardMedical.html "실시간 예제")
+    >  GPU 실시간 데이터 시각화에 초점을 맞춘 최고 성능의 자바스크립트 차트 작성 라이브러리
+       
+
 ***
